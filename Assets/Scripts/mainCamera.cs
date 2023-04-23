@@ -9,7 +9,7 @@ public class mainCamera : MonoBehaviour
     [SerializeField]float distanceDamp = 10f;
     [SerializeField]float rotationalDamp = 10f;
    
-
+//
 
     Transform myT;
 
